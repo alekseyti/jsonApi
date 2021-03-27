@@ -3,15 +3,15 @@
   "countGoods": 2,
   "contents": [
     {
-      "id_product": 123,
-      "product_name": "Ноутбук",
-      "price": 45600,
+      "id_product": 1,
+      "product_name": "BRANDED SHOE",
+      "price": 300 
       "quantity": 1
     },
     {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
+      "id_product": 2,
+      "product_name": "BRANDED TEES",
+      "price": 300
       "quantity": 1
     }
   ]
